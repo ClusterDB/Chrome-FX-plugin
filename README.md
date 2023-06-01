@@ -1,3 +1,5 @@
+# Chrome-FX-plugin
+
 This Chrome extension finds an input element named `exchangeRate` in the current web page, and then it increases its value by 5%. 
 
 If you want to use a different % then edit `extensions/popup.js`.
